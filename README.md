@@ -1,5 +1,7 @@
 # ![ÖbEngine](https://raw.githubusercontent.com/ObEngine/ObWiki/master/banner.png)
 
+> The engine development is currently paused! I'm working hard on a co-op party game named ["Keep Crafting"](https://store.steampowered.com/app/3965290/Keep_Crafting/), don't hesitate to wishlist it, it would mean a lot ❤️ 
+
 [![Discord](https://img.shields.io/discord/302123079818149888.svg?style=for-the-badge&logo=discord)](https://discordapp.com/invite/HkM6zdT)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](https://raw.githubusercontent.com/ObEngine/ObEngine/master/license)
 [![Github All Releases](https://img.shields.io/github/downloads/sygmei/obengine/total.svg?style=for-the-badge)](https://github.com/ObEngine/ObEngine/releases)
